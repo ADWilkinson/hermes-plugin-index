@@ -376,6 +376,24 @@
       ]
     },
     {
+      "name": "sessionretitler",
+      "description": "Keeps the session list readable as the topic drifts. Every N titleable user messages, retitles from the latest exchanges. A title you set yourself is never touched.",
+      "author": "Apostol Apostolov",
+      "tags": [
+        "sessions",
+        "titles"
+      ],
+      "repo": "apoapostolov/hermes-agent-awesome-plugins",
+      "subdir": "public/sessionretitler",
+      "ref": "cc0e9116c62c836e1fe039e38785268340af9f5e",
+      "homepage": "https://github.com/apoapostolov/hermes-agent-awesome-plugins/tree/main/public/sessionretitler",
+      "api_version": 1,
+      "added_at": "2026-10-14",
+      "capabilities": [
+        "hooks"
+      ]
+    },
+    {
       "name": "vault-view",
       "description": "Local Markdown vault workspace for Hermes Desktop with visual editing, progressive reading, cached image previews, shared tabs, tag search, links, backlinks and a graph; compatible with Obsidian vaults.",
       "author": "ergoCogn sàrl",
