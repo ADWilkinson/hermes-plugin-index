@@ -270,9 +270,9 @@
         "ui"
       ],
       "repo": "apoapostolov/hermes-agent-awesome-plugins",
-      "subdir": "plugins/scroll-on-switch",
-      "ref": "73e9efaabebcc802950e0c19694ec0e83163fb3a",
-      "homepage": "https://github.com/apoapostolov/hermes-agent-awesome-plugins/tree/main/plugins/scroll-on-switch",
+      "subdir": "public/scroll-on-switch",
+      "ref": "1ce1758bf18979244b70e89352629ec3fd71c73e",
+      "homepage": "https://github.com/apoapostolov/hermes-agent-awesome-plugins/tree/main/public/scroll-on-switch",
       "capabilities": [
         "desktop-ui"
       ],
