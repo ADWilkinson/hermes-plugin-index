@@ -180,9 +180,9 @@
         "sessions"
       ],
       "repo": "apoapostolov/hermes-agent-awesome-plugins",
-      "ref": "a5508ad6a758ceda88aba6fc64b02ba91f2b1d75",
-      "subdir": "plugins/better-session-appearance",
-      "homepage": "https://github.com/apoapostolov/hermes-agent-awesome-plugins/tree/main/plugins/better-session-appearance",
+      "ref": "e3a0fc6639fd16807fcfa8ade6678a11f82d793f",
+      "subdir": "public/better-session-appearance",
+      "homepage": "https://github.com/apoapostolov/hermes-agent-awesome-plugins/tree/main/public/better-session-appearance",
       "api_version": 1,
       "added_at": "2026-09-01"
     },
