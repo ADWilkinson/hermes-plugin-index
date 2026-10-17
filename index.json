@@ -424,9 +424,9 @@
         "accessibility"
       ],
       "repo": "apoapostolov/hermes-agent-awesome-plugins",
-      "subdir": "plugins/opaque-composer",
-      "ref": "e382ef35349a32a6e17d89cce61e1778002c2b8a",
-      "homepage": "https://github.com/apoapostolov/hermes-agent-awesome-plugins/tree/main/plugins/opaque-composer",
+      "subdir": "public/opaque-composer",
+      "ref": "47d12c8c4e1f4b1e2200a3efbf7678f279636568",
+      "homepage": "https://github.com/apoapostolov/hermes-agent-awesome-plugins/tree/main/public/opaque-composer",
       "api_version": 1,
       "added_at": "2026-09-16"
     },
