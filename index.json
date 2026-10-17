@@ -457,9 +457,9 @@
         "sessions"
       ],
       "repo": "apoapostolov/hermes-agent-awesome-plugins",
-      "subdir": "plugins/sidebar-manager",
-      "ref": "c7e84597ecc12d3dff9fde4984033fc912b9aa87",
-      "homepage": "https://github.com/apoapostolov/hermes-agent-awesome-plugins/tree/main/plugins/sidebar-manager",
+      "subdir": "public/sidebar-manager",
+      "ref": "6e65021e0fa4e5de678f2dba67dda6fe097703d9",
+      "homepage": "https://github.com/apoapostolov/hermes-agent-awesome-plugins/tree/main/public/sidebar-manager",
       "api_version": 1,
       "added_at": "2026-09-17"
     },
