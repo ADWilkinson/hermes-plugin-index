@@ -290,9 +290,9 @@
         "budget"
       ],
       "repo": "apoapostolov/hermes-agent-awesome-plugins",
-      "ref": "9374f6744d5735439e8ef72ccf52337f66162a34",
-      "subdir": "plugins/iteration-budget-meter",
-      "homepage": "https://github.com/apoapostolov/hermes-agent-awesome-plugins/tree/main/plugins/iteration-budget-meter",
+      "ref": "d5748450be8c6fedd951ee72094a154f5959e45b",
+      "subdir": "public/iteration-budget-meter",
+      "homepage": "https://github.com/apoapostolov/hermes-agent-awesome-plugins/tree/main/public/iteration-budget-meter",
       "api_version": 1,
       "added_at": "2026-09-08"
     },
