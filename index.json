@@ -196,9 +196,9 @@
         "sidebar"
       ],
       "repo": "apoapostolov/hermes-agent-awesome-plugins",
-      "ref": "0ea2d5171305ae5294692944b9ca4750338b2589",
-      "subdir": "plugins/drag-to-pin-session",
-      "homepage": "https://github.com/apoapostolov/hermes-agent-awesome-plugins/tree/main/plugins/drag-to-pin-session",
+      "ref": "4116276225a4df1da1c899998b5f69f6ca937130",
+      "subdir": "public/drag-to-pin-session",
+      "homepage": "https://github.com/apoapostolov/hermes-agent-awesome-plugins/tree/main/public/drag-to-pin-session",
       "api_version": 1,
       "added_at": "2026-09-01"
     },
