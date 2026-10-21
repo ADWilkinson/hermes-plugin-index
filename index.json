@@ -501,6 +501,26 @@
       ],
       "api_version": 1,
       "added_at": "2026-10-21"
+    },
+    {
+      "name": "code-assurance-engine",
+      "description": "Evidence-first change assurance for immutable repository candidates: reviewer-approved checks, findings and unverified gaps.",
+      "author": "Sahil Saghir",
+      "tags": [
+        "code-assurance",
+        "evidence",
+        "review",
+        "hermes-plugin"
+      ],
+      "repo": "Sahil-SS9/code-assurance-engine",
+      "ref": "effffefdb6362763e69b904ddc02ccaa3bbddcd0",
+      "homepage": "https://github.com/Sahil-SS9/code-assurance-engine",
+      "capabilities": [
+        "tools",
+        "commands"
+      ],
+      "api_version": 1,
+      "added_at": "2026-10-21"
     }
   ]
 }
