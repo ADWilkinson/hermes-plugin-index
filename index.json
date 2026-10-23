@@ -521,6 +521,26 @@
       ],
       "api_version": 1,
       "added_at": "2026-10-21"
+    },
+    {
+      "name": "agent-run-debugger",
+      "description": "Local-first evidence debugger for failed, stalled or expensive agent runs: deterministic timeline, evidence-led diagnosis, gaps and inert replay.",
+      "author": "Sahil Saghir",
+      "tags": [
+        "debugging",
+        "observability",
+        "offline",
+        "local-first"
+      ],
+      "repo": "Sahil-SS9/agent-run-debugger",
+      "ref": "e76edbb1a1da5c3651c24f57c86a0ffcbc28d019",
+      "homepage": "https://github.com/Sahil-SS9/agent-run-debugger",
+      "capabilities": [
+        "tools",
+        "commands"
+      ],
+      "api_version": 1,
+      "added_at": "2026-10-21"
     }
   ]
 }
