@@ -481,6 +481,26 @@
       "capabilities": [
         "desktop-ui"
       ]
+    },
+    {
+      "name": "modernisation-engine",
+      "description": "Source-read-only assessment and migration evidence engine with reviewed contracts and gated execution.",
+      "author": "Sahil Saghir",
+      "tags": [
+        "migration",
+        "assessment",
+        "evidence",
+        "hermes-plugin"
+      ],
+      "repo": "Sahil-SS9/modernisation-engine",
+      "ref": "fa35d9667283ec9c5246257a9ee5b076312fef7d",
+      "homepage": "https://github.com/Sahil-SS9/modernisation-engine",
+      "capabilities": [
+        "tools",
+        "commands"
+      ],
+      "api_version": 1,
+      "added_at": "2026-10-21"
     }
   ]
 }
